@@ -47,7 +47,7 @@ body {
 
 .second-hand {
   z-index: 1;
-   background-color: rgb(238, 0, 12);
+  background-color: rgb(238, 0, 12);
 }
 
 .hour-hand {
@@ -55,6 +55,6 @@ body {
   right: 50%;
 }
 
- .no-transition {
-   transition: none;
- }
+.no-transition {
+  transition: none;
+}
